@@ -1,4 +1,4 @@
-# Hi 👋 I'm Edi
+<h1 align="center">Hi 👋 I'm Edi</h1>
 ***
 
 
