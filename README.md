@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋 I'm Edi</h1>
-***
-<h3 align="center">Passionate about Data Science and Artificial Intelligence</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="yushanedi" />
-</p>
+<h1 align="center">Hi 👋, I'm Edi</h1>
+<h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yushanedi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -51,7 +46,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yushanedi&theme=radical" alt="yushanedi" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="yushanedi" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yushanedi&theme=radical" alt="yushanedi" /></td>
+    </tr>
+  </table>
 </p>
-
-
