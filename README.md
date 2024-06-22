@@ -2,15 +2,6 @@
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yushanedi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yushanedi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:yushanedi@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-### 🖥️ Programming Languages and Tools
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -18,6 +9,11 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI">
 </p>
+
+---
+
+### 📚 Education
+- Student at National University of Singapore (NUS)
 
 ### 🔭 I’m currently working on
 - [Project A](https://github.com/yushanedi/project-a) - A brief description of Project A.
@@ -46,6 +42,7 @@
 - Email: yushanedi@example.com
 - LinkedIn: [yushanedi](https://www.linkedin.com/in/yushanedi/)
 - Twitter: [@yushanedi](https://twitter.com/yushanedi)
+- Website: [yourpersonalwebsite.com](https://yourpersonalwebsite.com)
 
 ### ⚡ Fun fact
 - I love hiking and exploring new trails!
