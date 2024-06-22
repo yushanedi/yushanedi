@@ -20,10 +20,11 @@
 - TableAu and Python Project: Comparison between depth of analysis using 4D Toto Sets
 - Business Analytics Project: EltelierWorks Business Analysis using BI Tools
 
-### 🌱 I’m currently learning
-- Advanced data analysis techniques
-- Cloud computing with AWS
-- React.js for frontend development
+### 🌱 Past Work Experience
+- Utilising tools TabelAu and PowerBI to visualise large datasets and prescriptive analysis
+- Optimising Data Cleaning Processes using Javascripts and Googlescripts to automate data cleaning
+- Building Databases and Data Pipelines to channel data for internal usage 
+- Director of Sports: Leadership, Managament, and Project Delivery
 
 ### 👯 I’m looking to collaborate on
 - Open source projects related to data science and web development
