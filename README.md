@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edi</h1>
-<h3 align="center">Passionate Developer | Lifelong Learner</h3>
+<h3 align="center">Data Driven | Passionate Learner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -17,8 +17,8 @@
 - Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/)
 
 ### 🔭 I’m currently working on
-- [Project A](https://github.com/yushanedi/project-a): A web application for data visualization using Tableau and Python Flask.
-- [Project B](https://github.com/yushanedi/project-b): Implementing machine learning algorithms in Java for predictive analytics.
+- TableAu and Python Project: Comparison between depth of analysis using 4D Toto Sets
+- Business Analytics Project: EltelierWorks Business Analysis using BI Tools
 
 ### 🌱 I’m currently learning
 - Advanced data analysis techniques
@@ -30,18 +30,9 @@
 - Innovative ideas that combine technology and social impact
 
 ### 🤔 I’m looking for help with
-- Scaling applications using microservices architecture
+- Providing analytical perspective into data
+- Scaling applications using Natural Language Querying and Machine Learning Algorithmns
 - Improving algorithm efficiency in large-scale data processing
-
-### 💬 Ask me about
-- Python programming best practices
-- Data visualization and dashboard design
-- Tips for contributing to open source
-
-### ⚡ Fun fact
-- I love hiking and exploring new trails!
-
----
 
 <h2 align="center">Reach out to me</h2>
 
