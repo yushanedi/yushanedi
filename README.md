@@ -1,19 +1,57 @@
 <h1 align="center">Hi 👋 I'm Edi</h1>
 ***
+<h3 align="center">Passionate about Data Science and Artificial Intelligence</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="yushanedi" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yushanedi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yushanedi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:yushanedi@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 🔭 I’m currently working on
+- [Project A](https://github.com/yushanedi/project-a) - A brief description of Project A.
+- [Project B](https://github.com/yushanedi/project-b) - A brief description of Project B.
+
+### 🌱 I’m currently learning
+- Technology X
+- Framework Y
+- Tool Z
+
+### 👯 I’m looking to collaborate on
+- Open source projects
+- Exciting new ideas and startups
+- Community-driven events
+
+### 🤔 I’m looking for help with
+- Improving my knowledge in Machine Learning
+- Contributions to my open-source projects
+
+### 💬 Ask me about
+- Web Development
+- Python programming
+- Open Source Contributions
+
+### 📫 How to reach me
+- Email: yushanedi@example.com
+- LinkedIn: [yushanedi](https://www.linkedin.com/in/yushanedi/)
+- Twitter: [@yushanedi](https://twitter.com/yushanedi)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun fact
+- I love hiking and exploring new trails!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yushanedi&theme=radical" alt="yushanedi" />
+</p>
 
 
-
-<!--
-**yushanedi/yushanedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
