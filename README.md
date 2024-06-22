@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Radiant-4B0082?style=for-the-badge&logo=radio&logoColor=white" alt="Radiant">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
@@ -38,14 +39,17 @@
 - Python programming
 - Open Source Contributions
 
-### 📫 How to reach me
-- Email: yushanedi@example.com
-- LinkedIn: [yushanedi](https://www.linkedin.com/in/yushanedi/)
-- Twitter: [@yushanedi](https://twitter.com/yushanedi)
-- Website: [yourpersonalwebsite.com](https://yourpersonalwebsite.com)
-
 ### ⚡ Fun fact
 - I love hiking and exploring new trails!
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yushanedi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yushanedi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:yushanedi@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yourpersonalwebsite.com" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+</p>
 
 ---
 
