@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edi</h1>
-<h3 align="center">A passionate developer and lifelong learner</h3>
+<h3 align="center">Passionate Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -17,32 +17,33 @@
 - Student at National University of Singapore (NUS)
 
 ### 🔭 I’m currently working on
-- [Project A](https://github.com/yushanedi/project-a) - A brief description of Project A.
-- [Project B](https://github.com/yushanedi/project-b) - A brief description of Project B.
+- [Project A](https://github.com/yushanedi/project-a): A web application for data visualization using Tableau and Python Flask.
+- [Project B](https://github.com/yushanedi/project-b): Implementing machine learning algorithms in Java for predictive analytics.
 
 ### 🌱 I’m currently learning
-- Technology X
-- Framework Y
-- Tool Z
+- Advanced data analysis techniques
+- Cloud computing with AWS
+- React.js for frontend development
 
 ### 👯 I’m looking to collaborate on
-- Open source projects
-- Exciting new ideas and startups
-- Community-driven events
+- Open source projects related to data science and web development
+- Innovative ideas that combine technology and social impact
 
 ### 🤔 I’m looking for help with
-- Improving my knowledge in Machine Learning
-- Contributions to my open-source projects
+- Scaling applications using microservices architecture
+- Improving algorithm efficiency in large-scale data processing
 
 ### 💬 Ask me about
-- Web Development
-- Python programming
-- Open Source Contributions
+- Python programming best practices
+- Data visualization and dashboard design
+- Tips for contributing to open source
 
 ### ⚡ Fun fact
 - I love hiking and exploring new trails!
 
 ---
+
+<h2 align="center">Reach out to me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yushanedi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -54,10 +55,5 @@
 ---
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="yushanedi" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yushanedi&theme=radical" alt="yushanedi" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="yushanedi" />
 </p>
