@@ -14,7 +14,7 @@
 ---
 
 ### 📚 Education
-- Student at National University of Singapore (NUS)
+- Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/)
 
 ### 🔭 I’m currently working on
 - [Project A](https://github.com/yushanedi/project-a): A web application for data visualization using Tableau and Python Flask.
@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="yushanedi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yushanedi&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
