@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edi</h1>
-<h3 align="center">Data Driven | Passionate Learner</h3>
+<h3 align="center">Data Driven | Ambitious Learner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
