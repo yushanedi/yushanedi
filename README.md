@@ -21,7 +21,7 @@
 - Business Analytics Project: EltelierWorks Business Analysis using BI Tools
 
 ### 🌱 Past Work Experience
-- Utilising tools TabelAu and PowerBI to visualise large datasets and prescriptive analysis
+- Utilising tools TabelAu and PowerBI to visualise large datasets and perform prescriptive analysis
 - Optimising Data Cleaning Processes using Javascripts and Googlescripts to automate data cleaning
 - Building Databases and Data Pipelines to channel data for internal usage 
 - Director of Sports: Leadership, Managament, and Project Delivery
