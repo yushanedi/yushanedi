@@ -38,7 +38,7 @@
 <h2 align="center">Reach out to me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yushanedi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/yushanedi/](https://www.linkedin.com/in/edison-lin-yushan-056b43226/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/yushanedi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:yushanedi@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://yourpersonalwebsite.com" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
